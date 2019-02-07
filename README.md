@@ -14,4 +14,10 @@ postsCount=<how much posts to fetch in every fetch>
 fetchInterval=<number of minutes before next fetch>
 ```
 
-2). Use process manager (like `pm2`) to start bot as daemon (`pm2 start fetch_last_posts`)
+2). Add empty ignore list file `known_posts.json`:
+
+```
+[]
+```
+
+3). Use process manager (like `pm2`) to start bot as daemon (`pm2 start fetch_last_posts`)

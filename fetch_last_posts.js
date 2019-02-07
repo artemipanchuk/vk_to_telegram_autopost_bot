@@ -14,7 +14,6 @@ const knownPosts = require('./known_posts.json');
 
 const {
     wallId,
-    token,
     channelName,
     accessToken,
     postsCount,
