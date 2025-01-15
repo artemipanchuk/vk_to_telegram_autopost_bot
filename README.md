@@ -1,5 +1,5 @@
-# vk_to_telegram_autopost_bot
-Bot for autoposting from vk community to telegram channel
+# vk_to_telegram_autopost_bot UNSUPPORTED
+Bot for autoposting from vk community to telegram channel. Not sure if it works with actual apis. May be used as a reference
 
 # How to use
 1). Add `.env` file with settings:
